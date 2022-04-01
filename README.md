@@ -2,5 +2,5 @@
 - I’m interested in QA testing and app development.
 - I’m currently learning Java
 - I’m looking to collaborate on ...
-- You can coontact me if you have any interesting ideas to talk about.
+- You can contact me if you have any interesting ideas to talk about.
 - Contact me here - prabnilendu@gmail.com
