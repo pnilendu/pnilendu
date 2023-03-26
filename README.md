@@ -1,4 +1,4 @@
 - Hi, I’m Nilendu Prabhakar.
-- I’m am highly skilled in QA Testing and Data Science
+- I’m highly skilled in QA Testing and Data Science
 - You can contact me if you have any interesting ideas to talk about.
 - Contact me here - prabnilendu@gmail.com
