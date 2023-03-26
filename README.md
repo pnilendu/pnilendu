@@ -1,6 +1,4 @@
 - Hi, I’m Nilendu Prabhakar.
-- I’m interested in QA testing and app development.
-- I’m currently learning Java
-- I’m looking to collaborate on ...
+- I’m am highly skilled in QA Testing and Data Science
 - You can contact me if you have any interesting ideas to talk about.
 - Contact me here - prabnilendu@gmail.com
